@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "flappy-bird",
+    "slug": "flappy-bird",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
