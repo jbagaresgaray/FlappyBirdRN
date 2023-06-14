@@ -1,0 +1,15 @@
+export default {
+  background_day: require("./assets/sprites/background-day.png"),
+  background_night: require("./assets/sprites/background-night.png"),
+  floor: require("./assets/sprites/base.png"),
+  pipeGreen: require("./assets/sprites/pipe-green.png"),
+  pipeRed: require("./assets/sprites/pipe-red.png"),
+  pipeCore: require("./assets/sprites/pipe_core.png"),
+  pipeTop: require("./assets/sprites/pipe_top.png"),
+  bird1: require("./assets/sprites/redbird-midflap.png"),
+  bird2: require("./assets/sprites/redbird-upflap.png"),
+  bird3: require("./assets/sprites/redbird-downflap.png"),
+  birdYellow1: require("./assets/sprites/yellowbird-midflap.png"),
+  birdYellow2: require("./assets/sprites/yellowbird-upflap.png"),
+  birdYellow3: require("./assets/sprites/yellowbird-downflap.png"),
+};
